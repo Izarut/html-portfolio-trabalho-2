@@ -172,6 +172,21 @@ html{
 }
 /* FIM PROJECTS */
 
+/* INICIO CONTATO*/
+.contact{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nome{
+  
+}
+
+/* FIM CONTATO*/
+
 /* INICIO RODAPE */
 footer{
   width: 100%;

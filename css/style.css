@@ -173,7 +173,7 @@ html{
 /* FIM PROJECTS */
 
 /* INICIO CONTATO*/
-.contact{
+.form{
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -181,8 +181,18 @@ html{
   justify-content: center;
 }
 
-.nome{
+.contato{
   
+  flex-direction: column;
+  
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#comentario2{
+  resize: none;
 }
 
 /* FIM CONTATO*/
